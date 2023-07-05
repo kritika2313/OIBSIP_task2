@@ -1,4 +1,4 @@
-# OIBSIP_task3(ToDo App)
+# OIBSIP_task2(ToDo App)
 repository to create ToDo App
 created a to do app using android studio.
 
